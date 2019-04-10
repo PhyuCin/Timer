@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+    <string name="timerInitialStatus">00:00</string>
+    <string name="timerStartText">Start</string>
+    <string name="timerResetText">Reset</string>
+    <string name="timerStopText">Pause</string>
+</resources>
